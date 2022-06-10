@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;700&display=swap');
+:root {
+    --main-bg-color: #FAFAFA;
+}
+
+body {
+    font-family: "Nunito", sans-serif;
+    background: var(--main-bg-color);
+}
+
+.img-slider-height {
+    height: 25rem;
+    object-fit: cover;
+}
+
+.card-img-blog {
+    height: 100%;
+}
+
+.bg-black {
+    background: #000000;
+}

@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap');
+
+:root
+{
+	--main-bg-color: #FAFAFA;
+}
+
+body
+{
+	font-family: 'Nunito', sans-serif;
+}
+
+body, .bg-color
+{
+	background: var(--main-bg-color);
+}
+
+.font-modak
+{
+	font-family: 'Amatic SC', cursive;
+}
+
+.bg-black
+{
+	background: #000;
+}
+
+.img-slider-height
+{
+	height: 25rem;
+	object-fit: cover;
+}
+
+.card-img-blog
+{
+	height: 100%;
+}
+
+.img-logo-container
+{
+	height: auto;
+	width: 30px;
+}
+
+.cursor-pointer
+{
+	cursor: pointer;
+}
+
+.img-perfil
+{
+	height: 13.75rem;
+	object-fit: cover;
+	width: 13.75rem;
+}
+
+.perfil-dark:hover
+{
+	color: #fff !important;
+}
+
+.perfil-light:hover
+{
+	color: #343a40 !important;
+}
+
+#perfil-intro:hover
+{
+	background: #343a40;
+}
+
+#perfil-vale:hover
+{
+	background: #dc3545;
+}
+
+#perfil-ani:hover
+{
+	background: #ffc107;
+}
+
+#perfil-sergio:hover
+{
+	background: #28a745;
+}
+
+#perfil-juan:hover
+{
+	background: #007bff
+}
+
+#perfil-luciano:hover
+{
+	background: #17a2b8;
+}
